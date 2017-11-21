@@ -16,10 +16,10 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8097087">
+    <splitter split-orientation="horizontal" split-proportion="0.55857605">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="735">
@@ -74,11 +74,21 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name=".gitignor" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignor">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="jquery.filepicker.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/addition/jquery.filepicker.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="399">
-                  <caret line="237" column="7" lean-forward="true" selection-start-line="237" selection-start-column="7" selection-end-line="237" selection-end-column="7" />
+                  <caret line="237" column="7" lean-forward="false" selection-start-line="237" selection-start-column="7" selection-end-line="237" selection-end-column="7" />
                   <folding>
                     <marker date="1401247944000" expanded="true" signature="6886:6915" ph="..." />
                     <marker date="1401247944000" expanded="true" signature="9927:9986" ph="..." />
@@ -139,6 +149,9 @@
       <find>formtest</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,6 +160,7 @@
         <option value="$PROJECT_DIR$/js/addition-script.js" />
         <option value="$PROJECT_DIR$/addition/addition-style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignor" />
       </list>
     </option>
   </component>
@@ -163,6 +177,7 @@
     <option name="width" value="929" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -202,6 +217,11 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\autocity.redsign.ru" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,12 +316,12 @@
       <workItem from="1511019925879" duration="4410000" />
       <workItem from="1511083323717" duration="28000" />
       <workItem from="1511258657858" duration="4738000" />
-      <workItem from="1511267578886" duration="733000" />
+      <workItem from="1511267578886" duration="884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9909000" />
+    <option name="totallyTimeSpent" value="10060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -311,7 +331,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -602,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/addition/jquery.filepicker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="237" column="7" lean-forward="true" selection-start-line="237" selection-start-column="7" selection-end-line="237" selection-end-column="7" />
+          <caret line="237" column="7" lean-forward="false" selection-start-line="237" selection-start-column="7" selection-end-line="237" selection-end-column="7" />
           <folding>
             <marker date="1401247944000" expanded="true" signature="6886:6915" ph="..." />
             <marker date="1401247944000" expanded="true" signature="9927:9986" ph="..." />
@@ -662,6 +682,14 @@
             <element signature="n#style#0;n#input#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
