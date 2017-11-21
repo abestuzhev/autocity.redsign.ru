@@ -1,0 +1,104 @@
+.fancybox-skin .rsform_car-evaluation {
+    width: 100%;
+    overflow: visible;
+    padding: 20px 35px 31px;
+}
+
+.rsform-grid {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.rsform-grid::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.rsform-grid__col-3-1 {
+    width: 33.33333%;
+    float: left;
+    padding: 0 10px;
+}
+.rsform-grid__col-2-1 {
+    width: 50%;
+    float: left;
+    padding: 0 10px;
+}
+
+.fancybox-skin .rsform_car-evaluation .form-control {
+    min-width: auto;
+}
+
+.fancybox-skin .rsform_car-evaluation textarea {
+   min-height: 90px;
+    height: 90px;
+}
+
+
+/*input [file]*/
+.filepicker-ui {
+    position: relative;
+}
+.filepicker-ui input {
+    width: 100%;
+}
+
+.filepicker-ui button {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.filepicker-preview > div {
+    display: inline-block;
+    width: 77px;
+    height: 77px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 10px !important;
+    margin-right: 7px;
+}
+.filepicker-preview > div:last-child {
+    margin-right: 0;
+}
+
+.filepicker-preview > div img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+}
+
+.filepicker-ui button {
+    background-color: #dddddd;
+    height: 45px;
+}
+.filepicker-ui input {
+    height: 45px;
+    background-color: #fafafa;
+    border-color: #bbc0c7;
+}
+
+@media (max-width: 920px) {
+    .rsform-grid {
+        margin: 0;
+    }
+
+    .rsform-grid__col-3-1,
+    .rsform-grid__col-2-1 {
+        width: 100%;
+        float: none;
+        padding: 0;
+    }
+
+    .rsform__bottom-ps,
+    .rsform__license_work {
+        padding: 0 15px;
+    }
+
+    .fancybox-wrap {
+        max-width: 400px;
+    }
+}
